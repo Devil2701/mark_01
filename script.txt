@@ -7,3 +7,5 @@ systemctl enable httpd.service
 wget https://www.free-css.com/assets/files/free-css-templates/download/page284/maker.zip
 unzip maker.zip
 sudo mv maker/* /var/www/html/
+
+hit page by <public IP >
