@@ -9,3 +9,7 @@ unzip maker.zip
 sudo mv maker/* /var/www/html/
 
 hit page by <public IP >
+
+
+
+.......................................................
